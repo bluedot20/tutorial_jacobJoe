@@ -7,5 +7,5 @@ def rotateString(s, k):
 
 	return 
 
-def testRotateString(): 
-	assert(rotateString('abcd',  1) == 'bcda')
+
+# made changes 
